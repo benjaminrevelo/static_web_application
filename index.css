@@ -1,0 +1,46 @@
+body {
+    font-family:
+}
+.container {
+    width: auto;
+    margin: auto;
+    height: auto;
+    background-color: orange;
+}
+#banner {
+    background-image: url('images/banner.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 850px;
+}
+.bar {
+    height: 80px;
+    display: flex;
+    align: center;
+    justify-content: space-around;
+}
+.info {
+    width: auto;
+    margin: auto;
+    height: auto;
+    background-color: white;
+    text-align: center;
+}
+.subtitle {
+    color: purple;
+    font-size: 60px;
+}
+.about {
+    color: grey;
+    font-size: 40px;
+}
+.event {
+    background-image: url('images/happyhour.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+}
